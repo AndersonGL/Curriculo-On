@@ -48,18 +48,39 @@ footer img {
 
     width: 40px;
     height: 40px;
+    
+
+    
+   
+}
+
+.projeto {
+
+    width: 100%;
+}
+
+.img-projeto {
+  
+
+    width: 150px;
+    height: 150px;
+    
+   
+
 }
 
 
-
 footer {
-    display: flex;
+    display:flex;
     justify-content: center;
 }
 
 footer a {
-    margin: 20px;
+
+    margin: 0px;
     text-align: center;
+    width: 200px;
+    height: 200px;
 }
 
 footer p {

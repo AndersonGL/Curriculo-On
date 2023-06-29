@@ -3,8 +3,8 @@
 
 body {
 
-    color: #fff;
-    background-color: #000;
+    color: #000;
+    background-color: #fff;
     font-family: sans-serif;
     width: 100%;
 }
@@ -19,7 +19,7 @@ ul {
 }
 
 a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
     
     

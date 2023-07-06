@@ -57,9 +57,7 @@ footer img {
     height: 40px;
     padding: 20px;
   
-   
-    
-  
+
 }
 
 
@@ -122,4 +120,12 @@ button {
     border: none;
     width: 100px;
     height: 30px;
+}
+
+.icon a {
+
+    
+    width: 100px;
+    height: 10px;
+    margin: 0px;
 }

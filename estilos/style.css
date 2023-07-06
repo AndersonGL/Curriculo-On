@@ -21,7 +21,7 @@ ul {
 .container a {
 
     color: #000;
-    text-decoration: ;
+    font-weight: bold;
     
   
 }
@@ -101,7 +101,7 @@ nav a {
 }
 
 nav a:hover {
-    color: rgb(108, 108, 250);
+    color: #fff;
 }
 
 .contact-form input {

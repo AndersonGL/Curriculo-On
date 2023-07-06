@@ -15,13 +15,13 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-    padding: 20px;
+    padding: 15px;
 }
 
 .container a {
 
     color: #000;
-    text-decoration: none;
+    text-decoration: ;
     
   
 }
@@ -64,8 +64,8 @@ footer img {
 .img-projeto {
   
 
-    width: 120px;
-    height: 150px;
+    width: 80px;
+    height: 120px;
     margin: 0px;
 }
 

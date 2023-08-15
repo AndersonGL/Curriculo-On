@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-
-
-
 body {
 
     color: #000;
@@ -74,12 +71,15 @@ p {
 }
 
 footer a {
-    /* elementos dentro do projeto */
+    /* elementos dentro do projeto.html */
 
     margin: 0px;
     text-align: center;
     width: 100%;
     height: 200px;
+    color: #000;
+    
+
 }
 
 footer {
@@ -92,12 +92,8 @@ footer {
     font-size: 16px;
     text-align: center;
     padding: 0px;
-    margin-left: ;
-  
-
+    
 }
-
-
 
 
 .container {

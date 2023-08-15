@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
 
+
+
 body {
 
     color: #000;
@@ -58,8 +60,8 @@ p {
 
     width: 40px;
     height: 40px;
-    margin:  20px 10px;
-    
+    margin: 20px 10px;
+
 }
 
 
@@ -71,20 +73,31 @@ p {
     margin: 0px;
 }
 
-
-footer {
-
-    display: flex;
-    justify-content: center;
-}
-
 footer a {
+    /* elementos dentro do projeto */
 
     margin: 0px;
     text-align: center;
     width: 100%;
     height: 200px;
 }
+
+footer {
+
+    display: flex;
+    justify-content: center;
+    background-color: #808080;
+    width: 100%;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    padding: 0px;
+    margin-left: ;
+  
+
+}
+
+
 
 
 .container {
@@ -95,6 +108,7 @@ footer a {
 }
 
 nav a {
+
     font-size: 20px;
 }
 
@@ -128,7 +142,7 @@ button {
 .rodapé {
 
 
-    width: 100vw;
+    width: 100%;
     background-color: #808080;
     color: #fff;
     padding: 5px;

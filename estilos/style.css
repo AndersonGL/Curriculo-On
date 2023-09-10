@@ -3,9 +3,10 @@
 body {
 
     color: #000;
-    background-color: lightgray;
+    background-color: #fff;
     font-family: sans-serif;
     width: 100%;
+    font-weight: 500;
 }
 
 ul {
@@ -85,11 +86,12 @@ footer a {
 footer {
 
     display: flex;
-    justify-content: center;
-    background-color: #808080;
+    margin: 20px;
+    justify-content: center ;
+    background-color: #ffff;
     width: 100%;
-    font-weight: 500;
-    font-size: 16px;
+    font-weight: 700;
+    font-size: 14px;
     text-align: center;
     padding: 0px;
     

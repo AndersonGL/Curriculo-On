@@ -8,6 +8,7 @@ body {
     width: 100%;
     font-weight: 500;
     overflow-x: hidden;
+  
 }
 
 ul {
@@ -17,6 +18,7 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 15px;
+    
 }
 
 .container a {
@@ -24,6 +26,7 @@ ul {
     color: #000;
     font-weight: bold;
     font-size: 25px;
+    text-decoration: none;
 
 }
 
@@ -53,11 +56,20 @@ h1 {
     text-align: center;
 }
 
+.paragrafo {
+    
+    width: 50%;
+ 
+    
+}
+
 p {
 
     line-height: 1.5em;
 
 }
+
+
 
 .icon a img {
 
@@ -151,4 +163,15 @@ button {
     padding: 5px;
     margin-left: -57px;
     text-align: center;
+}
+
+
+@media (max-width: 700px){
+
+
+.paragrafo {
+
+    width: 100%;
+}
+
 }

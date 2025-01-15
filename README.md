@@ -1,5 +1,5 @@
-Portifólio Estático com página de descrição, projetos e contatos, link para o whatsapp, github e linkedIn criado com:
+#Portifólio Estático com página de descrição, projetos e contatos, link para o whatsapp, github e linkedIn criado com:
 
-* HTML
-* CSS
-* VSCode 
+* **HTML**
+* **CSS**
+* **VSCode** 

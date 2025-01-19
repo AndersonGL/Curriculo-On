@@ -26,7 +26,7 @@ Estou em transição de carreira.
 
 **Desenvolvimento Front-end**, Conhecimento em **HTML, CSS, JavaScript e React. Node.js** no lado do servidor.
 
-**Desenvolvimento Back-End**, Conhecimento em **PHP e o framework Laravel, Api Rest, Postman e MSQL**.
+**Desenvolvimento Back-End**, Conhecimento em **Php e o framework Laravel, Api Rest, Postman e Msql**.
 
 ## 🤝 Soft Skills
 

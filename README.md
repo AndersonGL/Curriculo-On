@@ -5,7 +5,7 @@
 * **VSCode** 
 
 
-## Olá, eu sou a Anderson! 👋
+## Oi👋, eu sou a Anderson! 
 
 
 ## 🚀 About me
@@ -21,9 +21,13 @@ Estou em transição de carreira.
 
 
 ## 🛠 Hard Skills
+
+** Data analicts Python, Django, Pandas, Pyautogui, Numpay, Msql, Excel e Power Bi.
+
 **Desenvolvimento Front-end**, Conhecimento em **HTML, CSS, JavaScript e React. Node.js** no lado do servidor.
 
 **Desenvolvimento Back-End**, Conhecimento em **PHP e o framework Laravel, Api Rest, Postman e MSQL**.
+
 ## 🤝 Soft Skills
 
 * **Comunicação**

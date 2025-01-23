@@ -1,12 +1,4 @@
-## Portifólio Estático com página de descrição, projetos e contatos, link para o whatsapp, github e linkedIn criado com:
-
-* **Html**
-* **Css**
-* **Vscode** 
-
-
 ## Oi👋, eu sou a Anderson! 
-
 
 ## 🚀 About me
 **Graduado em Análise e Desenvolvimento de Sistemas.**

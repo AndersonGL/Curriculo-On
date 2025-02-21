@@ -23,7 +23,7 @@ ul {
 
 .container a {
 
-    color: #000;
+    color: #fff;
     font-weight: bold;
     font-size: 25px;
     text-decoration: none;
@@ -32,7 +32,7 @@ ul {
 
 .container a:hover {
 
-    color: #0000ff;
+    color: #fff;
 }
 
 header img {
@@ -51,7 +51,7 @@ header img {
 
 h1 {
 
-    color: #000;
+    color: #fff;
     font-size: 28px;
     text-align: center;
 }

@@ -2,10 +2,10 @@
 
 
 
-## 🚀 About me
+## 🚀 Sobre
 
 **Grauduado em Análise e Desenvolvimento de Sistemas<br>**
-**Especializando em Análise de Dados.**
+**Especializando em Análise de Dados**
 
 
 

@@ -1,10 +1,10 @@
-# Hello👋, My name is Anderson! 
+# Olá👋, Meu nome é Anderson! 
 
 
 
 ## 🚀 About me
 
-**Graduate in systems analysis and development.**
+**Grauduado em Análise e Desenvolvimento de Sistemas**
 
 
 

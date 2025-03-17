@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-**Grauduado em Análise e Desenvolvimento de Sistemas**
+**Grauduado em Análise e Desenvolvimento de Sistemas,**
 **Especializando em Análise de Dados**
 
 

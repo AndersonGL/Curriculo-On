@@ -63,9 +63,9 @@ h1 {
     
 }
 
-p {
+h1, p {
 
-   /* line-height: 1.5em;  */
+   line-height: 1.0em;  
 
 }
 
